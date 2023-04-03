@@ -20,7 +20,7 @@ const fetchBooksError = error => {
     }
 }
 
-const GOOGLE_API_KEY = 'AIzaSyBwauswU3OwUkxHgACZwOKMIEJV_EhxtWk';
+// const GOOGLE_API_KEY = 'AIzaSyBwauswU3OwUkxHgACZwOKMIEJV_EhxtWk';
 
 export const fetchBooks = title => {
     return dispatch => {
